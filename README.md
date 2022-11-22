@@ -1,0 +1,2 @@
+# zshconfig
+.zshrc config
